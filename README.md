@@ -1,4 +1,4 @@
-# VSCode-GitHub-in-HTML
+# Education Survey Form
 
 The survey form is one of the HTML projects to start from. 
 
