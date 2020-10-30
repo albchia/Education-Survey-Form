@@ -14,31 +14,37 @@
             <!-- If we remove this, everything will move to the left of the page -->
             <div class="title" align="center">
             <!-- Add a heading to the form -->
-            <h1>Education Survey Form</h1>
+                <h1>Education Survey Form</h1>
+            
             <div class="questions">
                 <p>Enter your name:</p>
                 <input type="text" name="UserName" size="35" maxlength="35" value="">
                 <br><br>
+
                 <p>Enter your expected career:</p>
                 <input type="text" name="DesiredCareer" size="35" maxlength="35" value="">
                 <br><br>
+
                 <p>About yourself:</p>
                 <!-- Writing a lot of text such as descriptions there is automatically the text wrapping. If yu don't want text wrapping options, you can add wrap="off" (horizontal scrollbar) -->
                 <textarea name="AboutYourself" cols="30" rows="4"> </textarea>
                 <br><br>
+
                 <p>Do you study and exercise at home?</p>
                 <!-- Radio Buttons help you choose one out of many values -->
                 <input type="radio" name="exe" value="1">Yes
                 <input type="radio" name="exe" value="2">No
                 <br><br>
+
                 <p>How do you like to study to improve your career?</p>
                 <!-- Checkbox lets you choose one of the multiple dropdown options -->
-                <input type="checkbox" name="Books">Books
-                <input type="checkbox" name="Web">Online resources
-                <input type="checkbox" name="Phone">Phone apps
-                <input type="checkbox" name="Magazines">Magazines
-                <input type="checkbox" name="Video">Video materials
+                <input id="checkbox" type="checkbox" name="Books">Books
+                <input id="checkbox" type="checkbox" name="Web">Online resources
+                <input id="checkbox" type="checkbox" name="Phone">Phone apps
+                <input id="checkbox" type="checkbox" name="Magazines">Magazines
+                <input id="checkbox" type="checkbox" name="Video">Video materials
                 <br><br>
+
                 <p>Which online platform do you prefer?</p>
                 <!-- Select box lets you choose one of the multiple dropdown options -->
                 <select name="OnlinePlatform">
@@ -55,7 +61,7 @@
             </div>
             <!-- Submit information entered in the form -->
             <br><br>
-            <input type="submit" value="Submit Survey">
+            <input id="submit" type="submit" value="Submit Survey">
             </div>
         </form>
         </div>
