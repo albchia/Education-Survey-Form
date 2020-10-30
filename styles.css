@@ -14,9 +14,17 @@ p {
     border: 1px solid rgb(102, 99, 96);
     border-radius: 10px;
     padding: 8px;
-    width: 500px;
-    background-color: rgb(242, 192, 12);
+    width: 800px;
     position: absolute;
     left: 30%;
     margin: 20px;
+}
+
+.questions {
+    border: 1px solid rgb(102, 99, 96);
+    border-radius: 10px;
+    padding: 8px;
+    width: 500px;
+    background-color: rgb(242, 192, 12);
+   
 }
