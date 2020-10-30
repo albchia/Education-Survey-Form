@@ -22,7 +22,15 @@ p {
     margin-left: 200px;
 }
 
-.enterName {
+.about_yourself {
+    margin-bottom: 30px;
+}
+
+.desired_career {
+    margin-bottom: 30px;
+}
+
+.enter_name {
     margin-bottom: 30px;
 }
 
@@ -34,6 +42,10 @@ p {
     left: 20%;
     margin: 25px;
     background-color: rgba(253, 10, 83, 0.911);
+}
+
+.study_home {
+    margin-bottom: 30px; 
 }
 
 .questions {

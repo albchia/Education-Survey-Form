@@ -17,25 +17,30 @@
                 <h1>Education Survey Form</h1>
             
             <div class="questions">
-                <div class="enterName">
+                <div class="enter_name">
                     <p>Enter your name:</p>
                     <input type="text" name="UserName" size="35" maxlength="35" value="">
                 </div>
                 
-                <p>Enter your expected career:</p>
-                <input type="text" name="DesiredCareer" size="35" maxlength="35" value="">
-                <br><br>
+                <div class="desired_career">
+                    <p>Enter your expected career:</p>
+                    <input type="text" name="DesiredCareer" size="35" maxlength="35" value="">
+                </div>
 
-                <p>About yourself:</p>
-                <!-- Writing a lot of text such as descriptions there is automatically the text wrapping. If yu don't want text wrapping options, you can add wrap="off" (horizontal scrollbar) -->
-                <textarea name="AboutYourself" cols="30" rows="4"> </textarea>
-                <br><br>
+                <div class="about_yourself">
+                    <p>About yourself:</p>
+                    <!-- Writing a lot of text such as descriptions there is automatically the text wrapping. If yu don't want text wrapping options, you can add wrap="off" (horizontal scrollbar) -->
+                    <textarea name="AboutYourself" cols="30" rows="4"> </textarea>
+                </div>
 
-                <p>Do you study and exercise at home?</p>
-                <!-- Radio Buttons help you choose one out of many values -->
-                <input type="radio" name="exe" value="1">Yes
-                <input type="radio" name="exe" value="2">No
-                <br><br>
+                <div class="study_home">
+                    <p>Do you study and exercise at home?</p>
+                    <!-- Radio Buttons help you choose one out of many values -->
+                    <div class="radio">
+                        <input type="radio" name="exe" value="1">Yes
+                        <input type="radio" name="exe" value="2">No
+                    </div>
+                </div>
 
                 <p>How do you like to study to improve your career?</p>
                 <!-- Checkbox lets you choose one of the multiple dropdown options -->
