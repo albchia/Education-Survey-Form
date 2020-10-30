@@ -6,9 +6,9 @@ h1 {
 }
 
 p {
-    font-size: 18px;
+    font-size: 16px;
     font-weight: bold;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .multiple_option {
@@ -21,7 +21,7 @@ p {
     padding: 20px;
     position: absolute;
     left: 18%;
-    margin: 20px;
+    margin: 25px;
     background-color: rgba(253, 10, 83, 0.911);
 }
 
@@ -31,5 +31,5 @@ p {
     padding: 8px;
     width: 500px;
     background-color: oldlace;
-   
+    box-shadow: 10px 10px 6px rgba(0, 0, 0, 0.637);
 }
