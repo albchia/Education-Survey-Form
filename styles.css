@@ -12,6 +12,16 @@ p {
     line-height: 0.8px;
 }
 
+.form {
+    border: 3px solid whitesmoke;
+    width: 800px;
+    padding: 20px;
+    list-style-position: initial;
+    left: 20%;
+    margin: 25px;
+    background-color: rgba(253, 10, 83, 0.911);
+}
+
 .checkbox {
     position: relative;
     margin-bottom: 30px;
@@ -32,16 +42,6 @@ p {
 
 .enter_name {
     margin-bottom: 30px;
-}
-
-.form {
-    border: 3px solid whitesmoke;
-    width: 800px;
-    padding: 20px;
-    list-style-position: initial;
-    left: 20%;
-    margin: 25px;
-    background-color: rgba(253, 10, 83, 0.911);
 }
 
 .improve_class {
