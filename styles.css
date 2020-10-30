@@ -1,7 +1,7 @@
 h1 {
-    color: rgb(102, 99, 96);
-    font-size: 40px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: whitesmoke;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
 }
 
@@ -11,20 +11,20 @@ p {
 }
 
 .form {
-    border: 3px solid rgb(102, 99, 96);
-    border-radius: 10px;
-    width: 600px;
+    border: 3px solid whitesmoke;
+    width: 800px;
+    padding: 20px;
     position: absolute;
     left: 30%;
     margin: 20px;
-    background-color: rgba(253, 209, 10, 0.911);
+    background-color: rgba(253, 10, 83, 0.911);
 }
 
 .questions {
-    border: 2px solid rgb(102, 99, 96);
-    border-radius: 10px;
+    border: 2px solid whitesmoke;
+    border-radius: 20px;
     padding: 8px;
     width: 500px;
-    background-color: rgba(238, 124, 18, 0.658);
+    background-color: oldlace;
    
 }
