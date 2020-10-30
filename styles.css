@@ -1,15 +1,30 @@
-body {
-    background-color: aliceblue;
-}
-
 h1 {
-    color: rgb(54, 52, 50);
+    color: rgb(102, 99, 96);
     font-size: 40px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
 }
 
 p {
-    font-size: 18px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.form {
+    border: 3px solid rgb(102, 99, 96);
+    border-radius: 10px;
+    width: 600px;
+    position: absolute;
+    left: 30%;
+    margin: 20px;
+    background-color: rgba(253, 209, 10, 0.911);
+}
+
+.questions {
+    border: 2px solid rgb(102, 99, 96);
+    border-radius: 10px;
+    padding: 8px;
+    width: 500px;
+    background-color: rgba(238, 124, 18, 0.658);
+   
 }
