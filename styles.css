@@ -9,17 +9,7 @@ p {
     font-size: 16px;
     font-weight: bold;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
-
-.checkbox {
-    position: relative;
-    padding-left: 20px;
-    margin-bottom: 10px;
-    cursor: pointer;
-    font-size: 16px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    text-align: left;
-    margin-left: 150px;
+    line-height: 0.8px;
 }
 
 .form {
@@ -27,9 +17,68 @@ p {
     width: 800px;
     padding: 20px;
     list-style-position: initial;
-    left: 18%;
+    align-content: center;
     margin: 25px;
     background-color: rgba(253, 10, 83, 0.911);
+    left: 20%;
+}
+
+.checkbox {
+    position: relative;
+    margin-bottom: 30px;
+    cursor: pointer;
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: left;
+    margin-left: 200px;
+}
+
+.about_yourself {
+    margin-bottom: 30px;
+}
+
+.desired_career {
+    margin-bottom: 30px;
+}
+
+.enter_name {
+    margin-bottom: 30px;
+}
+
+.improve_class {
+    margin-bottom: 30px;
+}
+
+.option {
+    position: relative;
+    margin-bottom: 30px;
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.platform {
+    margin-bottom: 30px;  
+}
+
+.radio {
+    position: relative;
+    margin-bottom: 30px;
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.study_home {
+    margin-bottom: 30px;
+}
+
+.submit {
+    position: relative;
+    margin-bottom: 30px;
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
 }
 
 .questions {
@@ -39,4 +88,5 @@ p {
     width: 500px;
     background-color: oldlace;
     box-shadow: 10px 10px 6px rgba(0, 0, 0, 0.637);
+    margin-bottom: 30px;
 }

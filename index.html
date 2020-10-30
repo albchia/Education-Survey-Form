@@ -17,54 +17,65 @@
                 <h1>Education Survey Form</h1>
             
             <div class="questions">
-                <p>Enter your name:</p>
-                <input type="text" name="UserName" size="35" maxlength="35" value="">
-                <br><br>
-
-                <p>Enter your expected career:</p>
-                <input type="text" name="DesiredCareer" size="35" maxlength="35" value="">
-                <br><br>
-
-                <p>About yourself:</p>
-                <!-- Writing a lot of text such as descriptions there is automatically the text wrapping. If yu don't want text wrapping options, you can add wrap="off" (horizontal scrollbar) -->
-                <textarea name="AboutYourself" cols="30" rows="4"> </textarea>
-                <br><br>
-
-                <p>Do you study and exercise at home?</p>
-                <!-- Radio Buttons help you choose one out of many values -->
-                <input type="radio" name="exe" value="1">Yes
-                <input type="radio" name="exe" value="2">No
-                <br><br>
-
-                <p>How do you like to study to improve your career?</p>
-                <!-- Checkbox lets you choose one of the multiple dropdown options -->
-                <div class="checkbox">
-                    <input type="checkbox" name="Books">Books <br>
-                    <input type="checkbox" name="Web">Online resources <br>
-                    <input type="checkbox" name="Phone">Phone apps <br>
-                    <input type="checkbox" name="Magazines">Magazines <br>
-                    <input type="checkbox" name="Video">Video materials <br>
+                <div class="enter_name">
+                    <p>Enter your name:</p>
+                    <input type="text" name="UserName" size="35" maxlength="35" value="">
                 </div>
-                <br><br>
+                
+                <div class="desired_career">
+                    <p>Enter your expected career:</p>
+                    <input type="text" name="DesiredCareer" size="35" maxlength="35" value="">
+                </div>
 
-                <p>Which online platform do you prefer?</p>
-                <!-- Select box lets you choose one of the multiple dropdown options -->
-                <select name="OnlinePlatform">
-                    <option class="option">
-                    <option value=1 selected="true">Udemy</option>
-                    <option value=2 selected="true">Code.org</option>
-                    <option value=3 selected="true">Codecademy</option>
-                    <option value=4 selected="true">Lynda</option>
-                    <option value=5 selected="true">Macraris</option>
-                    <option value=6 selected="true">Khanacademy</option>
-                    <option value=7 selected="true">Code With Mosh</option>
-                    </option>
-                </select>
+                <div class="about_yourself">
+                    <p>About yourself:</p>
+                    <!-- Writing a lot of text such as descriptions there is automatically the text wrapping. If yu don't want text wrapping options, you can add wrap="off" (horizontal scrollbar) -->
+                    <textarea name="AboutYourself" cols="30" rows="4"> </textarea>
+                </div>
+
+                <div class="study_home">
+                    <p>Do you study and exercise at home?</p>
+                    <!-- Radio Buttons help you choose one out of many values -->
+                    <div class="radio">
+                        <input type="radio" name="exe" value="1">Yes
+                        <input type="radio" name="exe" value="2">No
+                    </div>
+                </div>
+
+                <div class="improve_career">
+                    <p>How do you like to study to improve your career?</p>
+                    <!-- Checkbox lets you choose one of the multiple dropdown options -->
+                    <div class="checkbox">
+                        <input type="checkbox" name="Books">Books <br>
+                        <input type="checkbox" name="Web">Online resources <br>
+                        <input type="checkbox" name="Phone">Phone apps <br>
+                        <input type="checkbox" name="Magazines">Magazines <br>
+                        <input type="checkbox" name="Video">Video materials <br>
+                    </div>
+                </div>
+
+                <div class="platform">
+                    <p>Which online platform do you prefer?</p>
+                    <!-- Select box lets you choose one of the multiple dropdown options -->
+                    <select class="option" name="OnlinePlatform">
+                        <option class="option">
+                        <option value=1 selected="true">Udemy</option>
+                        <option value=2 selected="true">Code.org</option>
+                        <option value=3 selected="true">Codecademy</option>
+                        <option value=4 selected="true">Lynda</option>
+                        <option value=5 selected="true">Macraris</option>
+                        <option value=6 selected="true">Khanacademy</option>
+                        <option value=7 selected="true">Code With Mosh</option>
+                        </option>
+                    </select>
+                </div>
             </div>
-            <!-- Submit information entered in the form -->
-            <br><br>
-            <input id="submit" type="submit" value="Submit Survey">
+
+            <div class="submit">
+                <!-- Submit information entered in the form -->
+                <input type="submit" value="Submit Survey">
             </div>
+        </div>
         </form>
         </div>
     </body>
