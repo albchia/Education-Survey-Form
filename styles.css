@@ -51,7 +51,6 @@ p {
 .option {
     position: relative;
     margin-bottom: 30px;
-    cursor: pointer;
     font-size: 16px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
@@ -61,8 +60,24 @@ p {
     margin-bottom: 30px;  
 }
 
+.radio {
+    position: relative;
+    margin-bottom: 30px;
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
 .study_home {
     margin-bottom: 30px;
+}
+
+.submit {
+    position: relative;
+    margin-bottom: 30px;
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
 }
 
 .questions {
