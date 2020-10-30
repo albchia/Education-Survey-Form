@@ -17,9 +17,10 @@ p {
     width: 800px;
     padding: 20px;
     list-style-position: initial;
-    left: 20%;
+    align-content: center;
     margin: 25px;
     background-color: rgba(253, 10, 83, 0.911);
+    left: 20%;
 }
 
 .checkbox {
