@@ -44,8 +44,25 @@ p {
     background-color: rgba(253, 10, 83, 0.911);
 }
 
+.improve_class {
+    margin-bottom: 30px;
+}
+
+.option {
+    position: relative;
+    margin-bottom: 30px;
+    cursor: pointer;
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.platform {
+    margin-bottom: 30px;  
+}
+
 .study_home {
-    margin-bottom: 30px; 
+    margin-bottom: 30px;
 }
 
 .questions {
@@ -55,4 +72,5 @@ p {
     width: 500px;
     background-color: oldlace;
     box-shadow: 10px 10px 6px rgba(0, 0, 0, 0.637);
+    margin-bottom: 30px;
 }
