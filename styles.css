@@ -58,7 +58,7 @@ p {
 }
 
 .platform {
-    margin-bottom: 30px;  
+    margin-bottom: 10px;  
 }
 
 .radio {
@@ -88,5 +88,5 @@ p {
     width: 500px;
     background-color: oldlace;
     box-shadow: 10px 10px 6px rgba(0, 0, 0, 0.637);
-    margin-bottom: 30px;
+    margin: 20px;
 }
