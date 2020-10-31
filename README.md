@@ -1,5 +1,7 @@
 # Education Survey Form
 
+Now we can update infos about this project.
+
 The survey form is one of the HTML projects to start from.  
 
 In this project I create a simple survey form and then submit the information captured.  
