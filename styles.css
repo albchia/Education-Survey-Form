@@ -15,10 +15,10 @@ p {
 .form {
     border: 3px solid whitesmoke;
     width: 500px;
-    padding: 20px;
+    padding: 10px;
     list-style-position: initial;
     align-content: center;
-    margin: 25px;
+    margin: 20px;
     background-color: rgba(253, 10, 83, 0.911);
     margin: auto;
 }
@@ -86,9 +86,9 @@ p {
 .questions {
     border: 2px solid whitesmoke;
     border-radius: 20px;
-    padding: 5px;
+    padding: 5px 5px 5px 5px;
     width: 400px;
     background-color: oldlace;
     box-shadow: 10px 10px 6px rgba(0, 0, 0, 0.637);
-    margin: 10px 10px 10px 10px;
+    margin: 5px 5px 5px 5px;
 }
