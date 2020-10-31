@@ -20,10 +20,7 @@ p {
     align-content: center;
     margin: 25px;
     background-color: rgba(253, 10, 83, 0.911);
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: auto;
-    margin-bottom: auto;
+    margin: auto;
 }
 
 .checkbox {
