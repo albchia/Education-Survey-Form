@@ -1,12 +1,12 @@
 h1 {
     color: whitesmoke;
-    font-size: 40px;
+    font-size: 30px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
 }
 
 p {
-    font-size: 16px;
+    font-size: 14px;
     font-weight: bold;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     line-height: 0.8px;
@@ -14,7 +14,7 @@ p {
 
 .form {
     border: 3px solid whitesmoke;
-    width: 800px;
+    width: 500px;
     padding: 20px;
     list-style-position: initial;
     align-content: center;
@@ -27,10 +27,10 @@ p {
     position: relative;
     margin-bottom: 30px;
     cursor: pointer;
-    font-size: 16px;
+    font-size: 14px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: left;
-    margin-left: 200px;
+    margin-left: 140px;
 }
 
 .about_yourself {
@@ -42,6 +42,7 @@ p {
 }
 
 .enter_name {
+    margin-top: 30px;
     margin-bottom: 30px;
 }
 
@@ -52,7 +53,7 @@ p {
 .option {
     position: relative;
     margin-bottom: 30px;
-    font-size: 16px;
+    font-size: 14px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
 }
@@ -64,7 +65,7 @@ p {
 .radio {
     position: relative;
     margin-bottom: 30px;
-    font-size: 16px;
+    font-size: 14px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
 }
@@ -75,8 +76,9 @@ p {
 
 .submit {
     position: relative;
-    margin-bottom: 30px;
-    font-size: 16px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-size: 14px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
 }
@@ -84,9 +86,9 @@ p {
 .questions {
     border: 2px solid whitesmoke;
     border-radius: 20px;
-    padding: 8px;
-    width: 500px;
+    padding: 5px;
+    width: 400px;
     background-color: oldlace;
     box-shadow: 10px 10px 6px rgba(0, 0, 0, 0.637);
-    margin: 20px;
+    margin: 10px 10px 10px 10px;
 }
