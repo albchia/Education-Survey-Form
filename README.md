@@ -21,7 +21,7 @@ Here is my _Education Survey Form_
 
 ![Education Survey Form](https://user-images.githubusercontent.com/70691672/98252395-29a3bd80-1f7a-11eb-8bda-1f7f0ec73616.PNG)
 
-#### Project Overview
+### Project Overview
 
 Title: _"Education Survey Form"_
 
@@ -29,7 +29,7 @@ Title: _"Education Survey Form"_
 
 This project has been inspired by survey forms. The task is to create the form and personalize it working on style and design.
 
-#### Project Instructions
+### Project Instructions
 
 Feel free to customize questions, answers and style.
 For inspiration, you can try playing around with `background-colors`, `border-radius`, `buttons`, `input types` and `option values`.
