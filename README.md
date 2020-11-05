@@ -25,7 +25,7 @@ Here is my _Education Survey Form_
 
 Title: _"Education Survey Form"_
 
-> GitHub: link - https://github.com/albchia/Education-Survey-Form.git
+> GitHub: [link](https://github.com/albchia/Education-Survey-Form.git)
 
 This project has been inspired by survey forms. The task is to create the form and personalize it working on style and design.
 
