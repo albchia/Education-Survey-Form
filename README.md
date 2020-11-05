@@ -30,3 +30,8 @@ Feel free to customize questions, answers and style.
 For inspiration, you can try playing around with `background-colors`, `border-radius`, `buttons`, `input types` and `option values`. 
 You can even add a `box-shadow` around the form, changing `font` and `size`.
 
+## Contributing
+This repository is a project created by myself during my trainings.
+Therefore, pull requests will not be accepted.
+
+> For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
