@@ -16,4 +16,4 @@ This is the one of the projects I realized during my training, to do practical e
 #### Project Screenshot
 Here is my _Education Survey Form_
 
-![Education Survey Form]
+![Education Survey Form](https://user-images.githubusercontent.com/70691672/98252395-29a3bd80-1f7a-11eb-8bda-1f7f0ec73616.PNG)
