@@ -1,7 +1,19 @@
 # Education Survey Form
 
-A nice Animal Card built within HTML and CSS.
+A simple example of survey form working with HTML and CSS.
 
-This was one of the projects I realized during the Udacity Path "Intro to Programming" Nanodegree.
+This is one of the projects I realized during my training, to do practical exercises.
 
 [See full project](https://albchia.github.io/Education-Survey-Form/)
+
+## Table of Contents
+- [About the Project](#About-the-Project)
+- [Contributing](#Contributing)
+
+## About the Project
+This is the one of the projects I realized during my training, to do practical exercises.
+
+#### Project Screenshot
+Here is my _Education Survey Form_
+
+![Education Survey Form](https://user-images.githubusercontent.com/70691672/98252395-29a3bd80-1f7a-11eb-8bda-1f7f0ec73616.PNG)
