@@ -2,7 +2,7 @@
 
 A simple example of Survey Form working with HTML and CSS.
 
-This is one of the projects I realized during my training, to work with practical exercises.
+This is one of the projects I realized during my training, to work and study doing practical exercises.
 
 [See full project](https://albchia.github.io/Education-Survey-Form/)
 
