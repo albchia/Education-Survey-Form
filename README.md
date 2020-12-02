@@ -37,7 +37,7 @@ You can even add a `box-shadow` around the form, changing `font` and `size`.
 
 ## Contributing
 
-This repository is a project created by myself during my trainings.
+This is the repository of a project created by myself during my trainings.
 Therefore, pull requests will not be accepted.
 
 > For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
